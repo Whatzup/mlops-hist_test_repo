@@ -16,7 +16,7 @@ black==22.8.0
 flake8==5.0.4
 mypy==0.971
 
-matplotlib==3.9.1
+matplotlib
 pandas
 numpy
 pytest
