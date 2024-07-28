@@ -6,7 +6,7 @@ HYPEN_E_DOT='-e .'
 __version__="0.0.1"
 PKG_NAME = "TestHist"
 REPO_NAME = "mlops-hist_test_repo"
-AUTHOR_USER_NAME = "itzaijaz"
+AUTHOR_USER_NAME = "Whatzup"
 AUTHOR_EMAIL = "a@a.com"
 pkg_desc = "Python package for displayiong test Histogram"
 url = f"github.com/{AUTHOR_USER_NAME}/{REPO_NAME}"
@@ -15,7 +15,7 @@ project_urls = {
 }
 package_dir={"":"src"}
 
-with open("README.md", 'r', encoding='utf-8') as f:
+with open("README.md", 'r', encoding='utf-8') as f:     
     long_description=f.read()
 
 
