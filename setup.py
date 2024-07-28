@@ -9,9 +9,9 @@ REPO_NAME = "mlops-hist_test_repo"
 AUTHOR_USER_NAME = "Whatzup"
 AUTHOR_EMAIL = "a@a.com"
 pkg_desc = "Python package for displayiong test Histogram"
-url = f"github.com/{AUTHOR_USER_NAME}/{REPO_NAME}"
+url = f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}"
 project_urls = {
-    "Bug Tracker" : f"github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues"
+    "Bug Tracker" : f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}/issues"
 }
 package_dir={"":"src"}
 
