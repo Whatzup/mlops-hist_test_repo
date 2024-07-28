@@ -42,5 +42,5 @@ setup(
     project_urls=project_urls,
     package_dir=package_dir,
     packages=find_packages(where="src"),
-    install_requires=get_requirements("./requirements_dev.txt")
+    install_requires=get_requirements("requirements_dev.txt")
 )
