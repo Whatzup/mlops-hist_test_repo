@@ -5,7 +5,7 @@ HYPEN_E_DOT='-e .'
 
 __version__="0.0.1"
 PKG_NAME = "TestHist"
-REPO_NAME = "hist_test_repo"
+REPO_NAME = "mlops-hist_test_repo"
 AUTHOR_USER_NAME = "itzaijaz"
 AUTHOR_EMAIL = "a@a.com"
 pkg_desc = "Python package for displayiong test Histogram"
