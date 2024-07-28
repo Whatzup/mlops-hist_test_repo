@@ -22,7 +22,7 @@ with open("README.md", 'r', encoding='utf-8') as f:
 
 setup(
     name=PKG_NAME,
-    version='0.0.1',
+    version='0.0.2',
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
     description=pkg_desc,
