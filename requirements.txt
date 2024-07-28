@@ -1,0 +1,6 @@
+matplotlib==3.9.1
+pandas
+numpy
+pytest
+
+-e .
