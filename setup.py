@@ -3,7 +3,7 @@ from typing import List
 
 HYPEN_E_DOT='-e .'
 
-__version__="0.0.5"
+__version__="1.1.0"
 PKG_NAME = "TestHist"
 REPO_NAME = "mlops-hist_test_repo"
 AUTHOR_USER_NAME = "Whatzup"
