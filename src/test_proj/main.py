@@ -1,6 +1,7 @@
 # histogram_example.py
 
 import matplotlib.pyplot as plt
+import pandas as pd
 
 def generate_histogram(data, bins=10):
     """
